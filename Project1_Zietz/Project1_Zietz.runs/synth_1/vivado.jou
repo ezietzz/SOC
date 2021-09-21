@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Sep  9 16:49:23 2021
+# Process ID: 9684
+# Current directory: C:/Users/Eric_Zietz2/Box/SoC/Project1_Zietz/Project1_Zietz.runs/synth_1
+# Command line: vivado.exe -log ssegmain.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ssegmain.tcl
+# Log file: C:/Users/Eric_Zietz2/Box/SoC/Project1_Zietz/Project1_Zietz.runs/synth_1/ssegmain.vds
+# Journal file: C:/Users/Eric_Zietz2/Box/SoC/Project1_Zietz/Project1_Zietz.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source ssegmain.tcl -notrace
